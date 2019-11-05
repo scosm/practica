@@ -1,0 +1,19 @@
+{
+  "name": "graph-bfs",
+  "version": "1.0.0",
+  "description": "Breadth-first searching of graphs.",
+  "main": "DirectedGraph.js",
+  "scripts": {
+    "test": "mocha -r ts-node/register ./*.spec.ts",
+    "tsc": "tsc"
+  },
+  "author": "Scobie Smith",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "*",
+    "@types/mocha": "*",
+    "chai": "*",
+    "mocha": "*",
+    "ts-node": "*"
+  }
+}
