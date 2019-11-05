@@ -201,8 +201,10 @@ ModelManifest.xml
 # Visual Studio Code
 .vscode/
 
+# NodeJS folders
 node_modules/
 
 # Python folders
 .pytest_cache/
 __pycache__/
+
