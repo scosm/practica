@@ -201,3 +201,4 @@ ModelManifest.xml
 # Visual Studio Code
 .vscode/
 
+node_modules/
